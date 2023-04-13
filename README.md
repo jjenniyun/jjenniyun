@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduce </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> React, Node.js, Vue.js, Next.js을 주로 공부하고 있으며 백엔드 개발자로 성장하기 노력하고있습니다:) </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> React, Node.js, Vue.js, Next.js을 주로 공부하고 있으며 백엔드 개발자로 성장하기 위해 공부중에 있으며 취업을 위해 취준중입니다:) </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
